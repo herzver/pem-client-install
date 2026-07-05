@@ -19,7 +19,7 @@ Release 标题：
 安装包文件名：
 
 ```text
-Herzver_PEM_Setup_3.5.4.exe
+herzver_pem_setup_3.5.4.exe
 ```
 
 ## 发布前检查
@@ -39,7 +39,7 @@ Herzver_PEM_Setup_3.5.4.exe
 3. 点击 `Draft a new release`。
 4. `Choose a tag` 填写：`v3.5.4`。
 5. Release title 填写：`和智慧明镜 PEM Windows 客户端 v3.5.4`。
-6. 上传安装包：`Herzver_PEM_Setup_3.5.4.exe`。
+6. 上传安装包：`herzver_pem_setup_3.5.4.exe`。
 7. 填写 Release notes。
 8. 点击 `Publish release`。
 
@@ -71,7 +71,7 @@ Release notes 模板：
 命令行方式（可选）：
 
 ```powershell
-gh release create v3.5.4 "Herzver_PEM_Setup_3.5.4.exe" `
+gh release create v3.5.4 "herzver_pem_setup_3.5.4.exe" `
   --repo DavaLin/pem-client-install `
   --title "和智慧明镜 PEM Windows 客户端 v3.5.4" `
   --notes-file release-notes-v3.5.4.md
@@ -88,7 +88,7 @@ gh release create v3.5.4 "Herzver_PEM_Setup_3.5.4.exe" `
 3. 点击 `创建发行版`。
 4. 标签名填写：`v3.5.4`。
 5. 发行版标题填写：`和智慧明镜 PEM Windows 客户端 v3.5.4`。
-6. 上传安装包：`Herzver_PEM_Setup_3.5.4.exe`。
+6. 上传安装包：`herzver_pem_setup_3.5.4.exe`。
 7. 填写发行说明，可复用 GitHub Release notes。
 8. 发布发行版。
 

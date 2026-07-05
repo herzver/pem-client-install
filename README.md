@@ -14,8 +14,8 @@
 | --- | --- | --- |
 | 官网下载页 | [查看下载说明](https://www.herzver.com/download.html) | 推荐入口 |
 | 百度网盘 | [下载客户端](https://pan.baidu.com/s/10i81SKAYz232k8w4tqD9Xw?pwd=hpem) | 推荐下载方式，提取码：`hpem` |
-| GitHub | [查看 GitHub 仓库](https://github.com/DavaLin/pem-client-install/raw/refs/heads/main/Herzver_PEM_Setup_3.5.4.exe) | 官方镜像，适合作为备用下载 |
-| Gitee | [查看 Gitee 仓库](https://gitee.com/dava_lin/pem-client-install/raw/main/Herzver_PEM_Setup_3.5.4.exe) | 国内备用镜像 |
+| GitHub | [查看 GitHub 仓库](https://github.com/DavaLin/pem-client-install/raw/refs/heads/main/herzver_pem_setup_3.5.4.exe) | 官方镜像，适合作为备用下载 |
+| Gitee | [查看 Gitee 仓库](https://gitee.com/dava_lin/pem-client-install/raw/main/herzver_pem_setup_3.5.4.exe) | 国内备用镜像 |
 
 当前安装包：
 
