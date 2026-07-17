@@ -1,8 +1,8 @@
-version: 3.5.4
+version: 3.5.7
 files:
-  - url: herzver_pem_setup_3.5.4.exe
-    sha512: 4phh7jDG13dOr0aQ2D5i7X+86OCsVjc95ExkvsTaPUR6wdsWRd8KvQgznZvSSkaXuYhsVLfcczupnFfLj1QJAQ==
-    size: 68800453
-path: herzver_pem_setup_3.5.4.exe
-sha512: 4phh7jDG13dOr0aQ2D5i7X+86OCsVjc95ExkvsTaPUR6wdsWRd8KvQgznZvSSkaXuYhsVLfcczupnFfLj1QJAQ==
-releaseDate: '2026-07-07T03:29:38.710Z'
+  - url: herzver_pem_setup_3.5.7.exe
+    sha512: /sdPENUeZ09PcnM1DofD8wXkwaNBOmiZI+7USg8m9ltiNxw/+4b697tYVallp+1U0mT/cSIsgQyYqyeYwkOJyA==
+    size: 70362165
+path: herzver_pem_setup_3.5.7.exe
+sha512: /sdPENUeZ09PcnM1DofD8wXkwaNBOmiZI+7USg8m9ltiNxw/+4b697tYVallp+1U0mT/cSIsgQyYqyeYwkOJyA==
+releaseDate: '2026-07-17T15:27:54.316Z'
