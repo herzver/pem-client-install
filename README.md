@@ -19,7 +19,7 @@ Windows 客户端提供桌面化操作体验，数据与网页端完全同步，
 
 ## 下载安装
 
-[下载 HerzverPEM Setup x.x.x.exe]（随版本更新）
+[https://www.herzver.com/download.html](https://www.herzver.com/download.html)（随版本更新）
 
 系统要求：Windows 10 / 11，需联网使用。安装包由和智数据技术(广州)有限公司官方发布，无广告、无插件，不收集无关数据；数据与网页端实时同步，换电脑登录可继续使用。
 
